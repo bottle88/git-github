@@ -57,3 +57,8 @@ To push changes in the local repo to github ,
 2. ```git commit -m "Second commit"```
 
 3. ```git push ```
+
+
+DOUBTS?
+
+idk why i am unable to add files to 'main' branch ?
